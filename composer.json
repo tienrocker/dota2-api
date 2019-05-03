@@ -1,5 +1,5 @@
 {
-    "name": "kronusme/dota2-api",
+    "name": "tienrocker/dota2-api",
     "description": "DotA 2 Web API PHP wrapper",
     "license": "MIT",
     "version": "2.2.1",
@@ -12,9 +12,9 @@
     ],
     "authors": [
         {
-            "name": "KronuS Me",
-            "email": "kronusme@gmail.com",
-            "homepage": "http://kronus.me",
+            "name": "Tien Tran",
+            "email": "tienrocker@gmail.com",
+            "homepage": "https://tienrocker.com",
             "role": "Developer"
         }
     ],
